@@ -19,6 +19,8 @@ Your challenge: Create a job search using an API, and use React to handle the fr
 - User story (optional): I can see a list of jobs in the closest city from my location by default
 - User story (optional): I can see jobs in different pages, 5 items each page
 
+You’ll also have to apply a few concept we learned in class, such as a **reducer** and a global **context**. And there will be a bonus for those who can find a use case for a **compound component**.
+
 **Icon**: https://google.github.io/material-design-icons/ (you can also use the react-icons package)
 
 **API**: https://jobs.github.com/api. Use data from the API to create questions and answers.
