@@ -19,7 +19,7 @@ Your challenge: Create a job search using an API, and use React to handle the fr
 - User story (optional): I can see a list of jobs in the closest city from my location by default
 - User story (optional): I can see jobs in different pages, 5 items each page
 
-**Icon**: https://google.github.io/material-design-icons/
+**Icon**: https://google.github.io/material-design-icons/ (you can also use the react-icons package)
 
 **API**: https://jobs.github.com/api. Use data from the API to create questions and answers.
 
@@ -29,7 +29,7 @@ Your challenge: Create a job search using an API, and use React to handle the fr
 
 **Live app** : https://jolly-heisenberg-20c49e.netlify.app/
 
-Once you completed, polish a nice read;esubmit your solutions on this google form, by providing URLs for both GitHub repository and live app on Netlify and explain what you have done.
+Once you completed, polish a nice readme submit your solutions on this link : https://forms.gle/Xg6kJMKmrBkyTe3TA, by providing URLs for both GitHub repository and live app on Netlify.
 
 For the custom domain url you'll enter in netlify, please use the following naming convention : **github-jobs-_YOUR_FIRSTNAME_.netlify.app** (replace YOUR_FIRSTNAME by your firstname)
 
@@ -74,8 +74,13 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 -   Where can I see your demo?
 -   What was your experience?
--   What have you learned/improved?
--   Your wisdom? :)
+-   In a few sentences, explain the structure of your project.
+-   If you had more time, what area of your project would you improve?
+-   Did you learn anything new while working on this project?
+-   What was the most challenging part for you?
+-   Any other comments?
+
+
 
 ### Built With
 
